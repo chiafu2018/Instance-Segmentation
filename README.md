@@ -47,5 +47,5 @@ dataset/
     `python test.py`
  
 ## Peformance Snapshot    
-Reach mAP: 0.346 on public dataset    
+Reach mAP: 0.4075 on public dataset on Codabench    
 ![alt text](image.png)
